@@ -5,7 +5,7 @@ public class AlertPopup extends NavigationCommands {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		//adding comment s
+		//adding comment s new line
 		launchbrowser();
 		driver.navigate().to("http://only-testing-blog.blogspot.com/");
 		Thread.sleep(6000);
